@@ -1,0 +1,17 @@
+{
+  "name": "teaching-skills",
+  "version": "1.0.0",
+  "description": "Teaching and education resource skills",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/teaching-skills",
+  "repository": "https://github.com/full-statck-skills/teaching-skills",
+  "source": "./",
+  "skills": [
+    "./skills/course-designer",
+    "./skills/learning-assessor",
+    "./skills/teaching-resource-generator"
+  ]
+}
