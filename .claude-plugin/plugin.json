@@ -6,8 +6,8 @@
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
   },
-  "homepage": "https://github.com/full-statck-skills/teaching-skills",
-  "repository": "https://github.com/full-statck-skills/teaching-skills",
+  "homepage": "https://github.com/full-stack-skills/teaching-skills",
+  "repository": "https://github.com/full-stack-skills/teaching-skills",
   "source": "./",
   "skills": [
     "./skills/course-designer",
